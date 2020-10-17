@@ -7,7 +7,6 @@
 __pycache__
 db.sqlite3
 media
-fixdb.sh
 # Backup files # 
 *.bak 
 automation/migrations/
@@ -122,5 +121,4 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 dump.rdb
-fixdb.sh
 sample.json
